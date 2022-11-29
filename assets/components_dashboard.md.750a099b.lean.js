@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.8e5d6df3.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/dashboard.md"}'),o={name:"components/dashboard.md"};function r(s,n,c,d,p,_){return a(),t("div")}const f=e(o,[["render",r]]);export{i as __pageData,f as default};
