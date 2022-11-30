@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.8e5d6df3.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/startscreen.md"}'),s={name:"components/startscreen.md"};function a(n,o,c,p,_,m){return r(),t("div")}const f=e(s,[["render",a]]);export{i as __pageData,f as default};
