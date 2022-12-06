@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.285df152.js";const i=JSON.parse('{"title":"ExerciseList","description":"","frontmatter":{},"headers":[],"relativePath":"components/exlist.md"}'),p={name:"components/exlist.md"},o=l("",3),t=[o];function e(c,D,F,r,y,C){return a(),n("div",null,t)}const u=s(p,[["render",e]]);export{i as __pageData,u as default};

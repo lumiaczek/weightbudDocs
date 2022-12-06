@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./app.8e5d6df3.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"components/exlist.md"}'),s={name:"components/exlist.md"};function a(n,r,c,p,i,_){return o(),t("div")}const l=e(s,[["render",a]]);export{d as __pageData,l as default};
