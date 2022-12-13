@@ -32,9 +32,8 @@ export default {
         items: [
           { text: "Mapa interakcji komponentów", link: "/architecture/" },
           { text: "Struktura danych", link: "/architecture/data" },
-          { text: "SvelteNative", link: "/architecture/native" },
           {
-            text: "Błędy i obecne problemy",
+            text: "Obecnie wykryte błędy",
             link: "/architecture/errors",
           },
         ],
