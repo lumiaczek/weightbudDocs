@@ -14,7 +14,7 @@ Tutaj możemy sprawdzić ćwiczenia w naszych planach.
 
 Tutaj widzimy obecnie dodane ćwiczenia do naszego nowego planu. Na pasku górnym można zmienić jego nazwe.
 
-![NewPlan](/Dokumentacja/Nowy%20plan.jpg)
+![NewPlan](/Dokumentacja/Nowyplan.jpg)
 
 ### CategoryChoose
 
@@ -36,4 +36,4 @@ Tutaj możemy wybrać ilość serii a następnie dodać ćwiczenie do planu.
 
 #### Dodany nowy plan
 
-![New](/Dokumentacja/Dodany%20plan.jpg)
+![New](/Dokumentacja/Dodanyplan.jpg)
