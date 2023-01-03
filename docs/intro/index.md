@@ -14,4 +14,4 @@ Do stylizacji aplikacji używam [TailwindCSS](https://tailwindcss.com/) w postac
 
 ## Dane
 
-Ze względu na charakter mojej aplikacji wymagane jest przetwarzanie dużej ilości danych. Wybór padł na [CouchDB](https://couchdb.apache.org/). Jest to wybór uzależniony od samego NativeScript'a ze względu na to że jest to jedyny plugin umożliwający tworzenie lokanych baz danych. Jest to baza typu NoSQL więc jest ona idealna do moich potrzeb. Do reprezetnacji danych w postaciu wykresu użyje najpewniej pluginu ui-nativescript-charts.
+Ze względu na charakter mojej aplikacji wymagane jest przetwarzanie dużej ilości danych. Wybór padł na [CouchDB](https://couchdb.apache.org/). Jest to wybór uzależniony od samego NativeScript'a ze względu na to że jest to jedyny plugin umożliwający tworzenie lokanych baz danych. Jest to baza typu NoSQL więc jest ona idealna do moich potrzeb.

@@ -1,30 +1,23 @@
 export default {
   title: "WeightBud",
   base: "/weightbudDocs/",
-  description: "Just playing around.",
+  description: "WeightBud documentation",
   themeConfig: {
     nav: [
       { text: "Dokumentacja", link: "/" },
       {
-        text: "0.3.1-indev",
-        items: [{ text: "Changelog", link: "/changelog" }],
+        text: "1.0.0-final",
+        link: "https://github.com/lumiaczek/weightbud/releases/tag/v1.0.0-final",
       },
     ],
     sidebar: [
       {
-        text: "Wprowadzenie",
+        text: "Opis projektu",
         items: [
           { text: "Co to jest WeightBud?", link: "/" },
           { text: "Wybór technologi", link: "/intro/" },
-          { text: "Trudności", link: "/intro/wymagania" },
-        ],
-      },
-      {
-        text: "UI/UX Design",
-        items: [
-          { text: "Zasoby i postanowienia", link: "/ui/res" },
-          { text: "Wygląd ekranu startowego", link: "/ui/" },
-          { text: "Wygląd panelu głównego", link: "/ui/main" },
+          { text: "Przemyślenia", link: "/intro/after" },
+          { text: "Zbiór narzędzi i technologi", link: "/intro/res" },
         ],
       },
       {
@@ -32,37 +25,18 @@ export default {
         items: [
           { text: "Mapa interakcji komponentów", link: "/architecture/" },
           { text: "Struktura danych", link: "/architecture/data" },
-          {
-            text: "Obecnie wykryte błędy",
-            link: "/architecture/errors",
-          },
+          { text: "Kod źródłowy", link: "/architecture/source" },
         ],
       },
       {
-        text: "Opis komponentów",
+        text: "Obsługa aplikacji",
         items: [
-          {
-            text: "Programowanie część 1",
-            items: [
-              { text: "App", link: "/components/" },
-              { text: "StartScreen", link: "/components/startscreen" },
-              { text: "UserConfiguration", link: "/components/userconfig" },
-              { text: "Initialization", link: "/components/init" },
-              { text: "Dashboard", link: "/components/dashboard" },
-              { text: "Settings", link: "/components/settings" },
-            ],
-          },
-          {
-            text: "Programowanie część 2",
-            items: [
-              { text: "Plans", link: "/components/plans" },
-              { text: "NewPlan", link: "/components/newplan" },
-              { text: "CategoryChoose", link: "/components/catchoose" },
-              { text: "ExerciseList", link: "/components/exlist" },
-              { text: "ExerciseAdd", link: "/components/exeradd" },
-              { text: "Stats", link: "/components/stats" },
-            ],
-          },
+          { text: "Pierwsze uruchomienie", link: "/app/" },
+          { text: "Panel główny", link: "/app/dashboard" },
+          { text: "Plany", link: "/app/plans" },
+          { text: "Statystyki", link: "/app/stats" },
+          { text: "Trening", link: "/app/workout" },
+          { text: "Ustawienia", link: "/app/settings" },
         ],
       },
     ],

@@ -2,4 +2,4 @@
 
 Poniższa mapa zawiera sposób interakcji ze sobą komponentów i nakreśla funkcjonalność aplikacji na stan obecny.
 
-![Mapa](../public/App.png)
+![Mapa](/App.png)
